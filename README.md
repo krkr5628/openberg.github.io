@@ -91,6 +91,7 @@ Sensitive trading inputs are user-managed in the browser. If a user chooses to s
 - Tuned freshness warning behavior for current snapshot age.
 - Added large-display scaling for high-resolution screens.
 - Added Korean/English test-model notice popup.
+- Added header copyright/data-source notice for SEC, GDELT, KIS/Hankook, DART, and user-managed data.
 - Reduced Cloudflare Worker request volume by disabling heavy background ontology diagnostics on initial load, slowing heartbeat polling, lazy-loading command metadata, and caching AIP status.
 - Removed stale hashed assets from the Pages repository so only the current build files remain published.
 
