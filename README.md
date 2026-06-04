@@ -92,6 +92,7 @@ Sensitive trading inputs are user-managed in the browser. If a user chooses to s
 - Added large-display scaling for high-resolution screens.
 - Added Korean/English test-model notice popup.
 - Added header copyright/data-source notice for SEC, GDELT, KIS/Hankook, DART, and user-managed data.
+- Promoted the copyright/data-source notice to a first-run required acknowledgement with an unread-style header badge.
 - Reduced Cloudflare Worker request volume by disabling heavy background ontology diagnostics on initial load, slowing heartbeat polling, lazy-loading command metadata, and caching AIP status.
 - Removed stale hashed assets from the Pages repository so only the current build files remain published.
 
