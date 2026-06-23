@@ -1,0 +1,1 @@
+import{r as o}from"./vendor-react-DoQ5Fr7l.js";function u(e,r=!0){o.useEffect(()=>{if(!r)return;const t=n=>{n.key==="Escape"&&e()};return document.addEventListener("keydown",t),()=>document.removeEventListener("keydown",t)},[e,r])}export{u};
