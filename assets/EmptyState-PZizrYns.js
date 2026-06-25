@@ -1,0 +1,1 @@
+import{j as t}from"./vendor-react-DoQ5Fr7l.js";const i=({title:a="No data",detail:s})=>t.jsxs("div",{className:"ob-empty-state",role:"status","aria-live":"polite",children:[t.jsx("div",{className:"ob-state-title",children:a}),s&&t.jsx("div",{className:"ob-state-detail",children:s})]});export{i as E};
