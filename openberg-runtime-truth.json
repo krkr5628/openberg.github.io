@@ -1,0 +1,10 @@
+{
+  "schema": "openberg.production-runtime-truth.v1",
+  "releaseId": "development-unbound",
+  "sourceEntry": "src/main.tsx",
+  "dataMode": "real",
+  "fixtureModuleCount": 0,
+  "moduleCount": 694,
+  "chunkCount": 222,
+  "policy": "production-test-fixture-modules-zero"
+}

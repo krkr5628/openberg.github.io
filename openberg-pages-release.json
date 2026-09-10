@@ -1,0 +1,10 @@
+{
+  "schema": "openberg.pages-publication.v1",
+  "createdAt": "2026-09-10T09:05:26.714467+00:00",
+  "artifactSha256": "171b967909bb1ccea331acffe21752eaaecf4f45432b275125447ac0e41d1217",
+  "previousCommit": "c12f70bbcd485d6e65d39ae48f03b927ea223101",
+  "fileCount": 253,
+  "basePath": "/openberg.github.io/",
+  "apiBase": "https://api.my-worker-data.workers.dev",
+  "scope": "static-frontend-only"
+}
