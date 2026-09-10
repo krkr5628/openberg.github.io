@@ -1,8 +1,8 @@
 {
   "schema": "openberg.pages-publication.v1",
-  "createdAt": "2026-09-10T09:05:26.714467+00:00",
-  "artifactSha256": "171b967909bb1ccea331acffe21752eaaecf4f45432b275125447ac0e41d1217",
-  "previousCommit": "c12f70bbcd485d6e65d39ae48f03b927ea223101",
+  "createdAt": "2026-09-10T09:18:57.948499+00:00",
+  "artifactSha256": "1836a346c11f28dc56fd4c268599db04c8e4152321e62f4a9e3a42d34f18c6c3",
+  "previousCommit": "13f08e0c4ca2b76e4b189f87340408a9fd23348c",
   "fileCount": 253,
   "basePath": "/openberg.github.io/",
   "apiBase": "https://api.my-worker-data.workers.dev",
